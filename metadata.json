@@ -1,0 +1,6 @@
+{
+  "name": "NicheKit",
+  "description": "A comprehensive directory of AI tools for creators and editors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
